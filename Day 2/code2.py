@@ -1,0 +1,10 @@
+print("Getting to Know you! ")
+name = input("What is your name? ")
+food = input("What is your favorite food? ")
+Music = input("What is your favourite music? ")
+Home = input("Where do you live? ")
+
+print("You are", name)
+print("You are probably hungry for ",food)
+print("and You're definitely getting groove on to",Music)
+print("You're living in the amazing " ,Home)
