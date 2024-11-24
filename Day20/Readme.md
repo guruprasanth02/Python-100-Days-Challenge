@@ -24,6 +24,10 @@ Write a program that:
 
 ### My Code:
 
+Input and Output:
+
+![code20 input 1](https://github.com/user-attachments/assets/8e6dcf82-806f-4599-9216-c1adc4ddbb96)
+![code20 output1](https://github.com/user-attachments/assets/0661e19c-df09-4652-afc6-3da34617bef2)
 
 ### 🛠️ Common Errors Encountered:
 
