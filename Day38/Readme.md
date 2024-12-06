@@ -10,8 +10,8 @@
 ### 🔍 Key Concepts:
 
 * **For Loops with Strings:** We can loop through each character of a string by treating it like a list. This allows us to access individual characters and perform operations on them.
-* **String Methods and Conditional Statements:** Using if statements, we checked conditions on each character (like checking if the letter is a vowel or a specific character).
-* **Color Coding with Escape Sequences:** We learned how to use special escape codes to change the output color of text in the console. For example, \033[33m sets the color to yellow, and \033[0m resets it to default.
+* **String Methods and Conditional Statements:** Using ```if``` statements, we checked conditions on each character (like checking if the letter is a vowel or a specific character).
+* **Color Coding with Escape Sequences:** We learned how to use special escape codes to change the output color of text in the console. For example, \033[33m sets the color to yellow, and ```\033[0m``` resets it to default.
 * **Using Lists for Multiple Conditions:** We stored certain characters (like vowels) in a list, allowing us to check if a character belongs to that list and then apply an action.
 
 ### 👉 Day 38 Challenge: Code the Rainbow! Task Overview:
@@ -31,11 +31,11 @@
 
 * **Looping Through Strings:** Forgetting to loop through each character in the string can lead to issues where the program only prints the first character or the whole string at once, missing out on the intended effects.
 
-   **Fix:** Ensure that the loop goes through each character of the string by using the for letter in myString: pattern.
+   **Fix:** Ensure that the loop goes through each character of the string by using the ```for letter in myString:``` pattern.
 
 * **Handling Spaces:** Spaces might cause issues if not reset properly, causing the color to stay set after a space is encountered.
 
-    **Fix:** Use the escape code \033[0m to reset the color back to default whenever a space is encountered.
+    **Fix:** Use the escape code ```\033[0m``` to reset the color back to default whenever a space is encountered.
 
 ### My Code:
 ```python
