@@ -1,4 +1,4 @@
-# ✨ Day 88: File Writing and High Score Table 📂🏆
+# ✨ Day 48: File Writing and High Score Table 📂🏆
 
 ### 🎉 Today’s Highlights:
 
