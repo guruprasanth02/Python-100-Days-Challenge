@@ -39,7 +39,6 @@ Create a simple Flask app that interacts with Spotify’s API to fetch song resu
 Output:
 
 ![code93 output](https://github.com/user-attachments/assets/11a79aed-3001-42f9-90b4-1790a3bf01e6)
-![code93 output1](https://github.com/user-attachments/assets/215c8c3f-0e5c-4147-b570-fedcd274f774)
 
 ### 🛠️ Common Errors Encountered:
 
