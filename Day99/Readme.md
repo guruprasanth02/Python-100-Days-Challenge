@@ -1,5 +1,6 @@
 # 🌟 Day 99: Combo Scraper, Emailer, and Scheduler Challenge 📝💡
 
+![code99 input](https://github.com/user-attachments/assets/d43410ca-bba1-4000-9541-f2fcc2480815)
 
 ### 🎊 Today’s Highlights:
 
